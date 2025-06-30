@@ -1871,7 +1871,7 @@
 			(uuid "5fc27c35-3e1c-4f96-817c-93b5570858a6")
 		)
 		(instances
-			(project "dev_io_3"
+			(project "main_board"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "3")
 				)
@@ -2049,7 +2049,7 @@
 			(uuid "31cb0f66-393a-491f-95aa-c50644299a5d")
 		)
 		(instances
-			(project "dev_io_3"
+			(project "main_board"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "2")
 				)
@@ -2197,7 +2197,7 @@
 			(uuid "75814b72-b6e1-47ca-b81a-6b5b0d037c02")
 		)
 		(instances
-			(project "dev_io_3"
+			(project "main_board"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "4")
 				)
@@ -2274,7 +2274,7 @@
 			)
 			(uuid "e3f0e93b-8c23-4a3e-a255-f92c7eb5c62d")
 		)
-		(pin "USBC_MX2_USB2_P" output
+		(pin "USBC_MX1_USB2_P" output
 			(at 82.55 57.15 0)
 			(effects
 				(font
@@ -2285,7 +2285,7 @@
 			(uuid "bd1b4be3-fe84-4871-aba7-b2144387cc92")
 		)
 		(instances
-			(project "dev_io_3"
+			(project "main_board"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "5")
 				)

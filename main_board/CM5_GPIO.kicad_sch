@@ -4851,10 +4851,6 @@
 		(uuid "331dfee7-359e-4070-8df8-da095c84a847")
 	)
 	(no_connect
-		(at 83.82 147.32)
-		(uuid "344e44f8-97e7-4a9a-96f7-d18939aa5865")
-	)
-	(no_connect
 		(at 83.82 109.22)
 		(uuid "3561e74a-3b9b-4754-9c3b-0a6e0ad07bbe")
 	)
@@ -4913,10 +4909,6 @@
 	(no_connect
 		(at 144.78 33.02)
 		(uuid "77ed3ea0-19aa-40bf-8c06-cffd7c80ac01")
-	)
-	(no_connect
-		(at 144.78 144.78)
-		(uuid "87679c83-9208-4bb0-81f8-7c6085e372e7")
 	)
 	(no_connect
 		(at 144.78 109.22)
@@ -5558,6 +5550,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 144.78) (xy 144.78 144.78)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "9436b75b-a139-4eee-ae0d-67fc7036a048")
+	)
+	(wire
+		(pts
 			(xy 214.63 125.73) (xy 214.63 128.27)
 		)
 		(stroke
@@ -5625,6 +5627,16 @@
 			(type solid)
 		)
 		(uuid "a7065f1e-dcee-43b5-a342-a4982c31c272")
+	)
+	(wire
+		(pts
+			(xy 68.58 147.32) (xy 83.82 147.32)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "ab83a66e-3d16-4da1-93e8-8445c9df5bd9")
 	)
 	(wire
 		(pts
@@ -6156,6 +6168,17 @@
 		)
 		(uuid "6fa8342e-2989-40ca-b0ae-b207f17ca831")
 	)
+	(label "GPIO0"
+		(at 160.02 144.78 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "710d8109-2d67-445c-bac1-6d189fa780de")
+	)
 	(label "LED_nACT"
 		(at 157.48 48.26 180)
 		(fields_autoplaced yes)
@@ -6310,17 +6333,6 @@
 		)
 		(uuid "c1383de0-8b89-4198-8e13-094764dd7221")
 	)
-	(label "ID_SC"
-		(at 153.67 66.04 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "cb2ff936-d01f-4ed3-a5da-0089d3c4dd41")
-	)
 	(label "+5v"
 		(at 151.13 119.38 180)
 		(fields_autoplaced yes)
@@ -6364,6 +6376,17 @@
 			(justify left bottom)
 		)
 		(uuid "ed5d521b-24d1-4974-b18e-6b700d9b109f")
+	)
+	(label "GPIO1"
+		(at 68.58 147.32 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "edb74197-c844-4d49-aa1c-e0b2a78148c4")
 	)
 	(label "GPIO22"
 		(at 68.58 78.74 0)

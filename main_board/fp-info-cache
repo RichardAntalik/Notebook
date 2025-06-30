@@ -1,4 +1,39 @@
-23786844561893468
+23792099352058534
+000_custom
+MP2722GRH0000Z
+QFN-22 (2.5mmx3.5mm)
+Integrated Circuit
+0
+26
+26
+000_custom
+MP3431GLP
+MP3431GL-P-2
+Integrated Circuit
+0
+13
+13
+000_custom
+NX3DV42GU
+SOT1160-1
+Integrated Circuit
+0
+10
+10
+000_custom
+U3BU1ASMT1
+U3BU1ASMT1-2
+Connector
+0
+11
+11
+000_custom
+USB421603A
+USB4216-03-A-3
+Connector
+0
+16
+16
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64721,20 +64756,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Library
-U3BU1ASMT1
-U3BU1ASMT1-2
-Connector
-0
-11
-11
-Library
-USB421603A
-USB4216-03-A-3
-Connector
-0
-16
-16
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
