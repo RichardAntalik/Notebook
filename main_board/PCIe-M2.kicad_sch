@@ -3615,17 +3615,6 @@
 		)
 		(uuid "111611e6-b227-4178-9e95-e3b6e064fa8e")
 	)
-	(label "+5v"
-		(at 34.29 167.64 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "224d17d6-f687-4cef-8fc7-350a97123817")
-	)
 	(label "FB"
 		(at 59.69 162.56 0)
 		(fields_autoplaced yes)
@@ -3789,7 +3778,7 @@
 		)
 		(uuid "d0d2152d-05bb-45b9-922c-65dc46f5a5df")
 	)
-	(hierarchical_label "+5v"
+	(hierarchical_label "+5V"
 		(shape input)
 		(at 34.29 167.64 180)
 		(fields_autoplaced yes)

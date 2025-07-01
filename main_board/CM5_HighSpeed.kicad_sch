@@ -5929,24 +5929,144 @@
 		(uuid "ff2f00dc-dff2-4a19-af27-f5c793a8d261")
 	)
 	(no_connect
+		(at 99.06 119.38)
+		(uuid "05286a49-3da6-4d90-80a8-2975dc2adc3e")
+	)
+	(no_connect
+		(at 38.1 88.9)
+		(uuid "0c363664-d3e4-4d94-9563-da436038fab6")
+	)
+	(no_connect
 		(at 180.34 27.94)
 		(uuid "112128db-5910-4ab6-b2d1-fff0827fb81f")
 	)
 	(no_connect
-		(at 269.24 101.6)
-		(uuid "18276fee-7b2a-4d96-a475-6328bb6954f9")
+		(at 38.1 91.44)
+		(uuid "148c61be-9ad7-4e81-8b45-4fe5dc3d2717")
+	)
+	(no_connect
+		(at 99.06 76.2)
+		(uuid "1f5051f5-9934-4ded-83de-093886402166")
+	)
+	(no_connect
+		(at 99.06 129.54)
+		(uuid "2abc82eb-01bd-4e44-b94f-2340b235aca3")
 	)
 	(no_connect
 		(at 162.56 113.03)
 		(uuid "2ec9be40-1d5a-4e2d-8a4d-4be2d3c079d5")
 	)
 	(no_connect
-		(at 276.86 110.49)
-		(uuid "4b700db7-2bff-4b21-a0fe-0cdd68d37992")
+		(at 99.06 50.8)
+		(uuid "2fa2ad41-f186-4c96-934b-f4681e976f0a")
 	)
 	(no_connect
-		(at 299.72 99.06)
-		(uuid "7016877f-dfb8-4342-81d0-210cf343ee2f")
+		(at 99.06 68.58)
+		(uuid "33ec50f5-8fdd-491f-88c7-1f0d2a27036e")
+	)
+	(no_connect
+		(at 99.06 121.92)
+		(uuid "3645ee29-9c50-479d-bfb0-5a9e2301436d")
+	)
+	(no_connect
+		(at 38.1 99.06)
+		(uuid "40826dd5-807b-43c2-8569-6cd941be9fd9")
+	)
+	(no_connect
+		(at 99.06 134.62)
+		(uuid "4fc9ec86-7747-4058-a3b0-a5d6277b1bb3")
+	)
+	(no_connect
+		(at 38.1 96.52)
+		(uuid "6ab1f22f-5abe-4329-8f2c-aee96a9e148f")
+	)
+	(no_connect
+		(at 99.06 60.96)
+		(uuid "719ff598-5956-4686-a341-962b65d02c22")
+	)
+	(no_connect
+		(at 105.41 25.4)
+		(uuid "7432c4e7-711d-4bbe-aab9-b65924a444a5")
+	)
+	(no_connect
+		(at 38.1 142.24)
+		(uuid "7ad99604-89fa-4a00-808c-0ba3bf9f2fe3")
+	)
+	(no_connect
+		(at 38.1 81.28)
+		(uuid "806c990d-7a6d-40b4-b31a-7487c8e488d2")
+	)
+	(no_connect
+		(at 99.06 73.66)
+		(uuid "8d132811-934d-4c08-9874-0bf8c51a20b4")
+	)
+	(no_connect
+		(at 99.06 127)
+		(uuid "9aa540a0-5c5c-4101-a020-8569ab8fe73c")
+	)
+	(no_connect
+		(at 99.06 45.72)
+		(uuid "9d141ae2-2364-4f3e-8f46-9542c2aa81e3")
+	)
+	(no_connect
+		(at 38.1 106.68)
+		(uuid "a32bdb96-d347-4bd7-b9e4-897774c798b6")
+	)
+	(no_connect
+		(at 99.06 78.74)
+		(uuid "a63420c3-6c3b-44ce-9db4-315caeae9947")
+	)
+	(no_connect
+		(at 99.06 86.36)
+		(uuid "a9413897-91f7-43e9-b2af-2c8c7af4f7bc")
+	)
+	(no_connect
+		(at 99.06 144.78)
+		(uuid "b418cf53-1f66-428b-a8b7-30fb2701ec3c")
+	)
+	(no_connect
+		(at 99.06 137.16)
+		(uuid "b938b944-cb9a-432a-99c4-f011212a13db")
+	)
+	(no_connect
+		(at 99.06 142.24)
+		(uuid "c3c7002f-9ce8-4317-a394-46bdacfb151d")
+	)
+	(no_connect
+		(at 99.06 83.82)
+		(uuid "c5576abe-72ce-492a-a861-87a3db70db66")
+	)
+	(no_connect
+		(at 38.1 144.78)
+		(uuid "ca63dcc0-150d-486c-ac71-e8230070bc91")
+	)
+	(no_connect
+		(at 99.06 43.18)
+		(uuid "cb85cf99-2dc7-4260-aa3e-5415f824892f")
+	)
+	(no_connect
+		(at 99.06 58.42)
+		(uuid "cc67855b-1849-4430-978e-9f16e1ba7f99")
+	)
+	(no_connect
+		(at 38.1 83.82)
+		(uuid "ce934af2-20f4-4adb-9ef7-c9f114f37792")
+	)
+	(no_connect
+		(at 99.06 81.28)
+		(uuid "d68c65f3-e817-4005-b43b-05305d131d92")
+	)
+	(no_connect
+		(at 99.06 53.34)
+		(uuid "ed5dc9a7-4d4d-4d8c-9345-e0fe876884b6")
+	)
+	(no_connect
+		(at 38.1 104.14)
+		(uuid "f13ff7a0-6b84-40bb-bb11-f474fd1d0111")
+	)
+	(no_connect
+		(at 99.06 66.04)
+		(uuid "fe73ed15-bc1e-408b-a6f5-008d707064e3")
 	)
 	(wire
 		(pts
@@ -7746,17 +7866,6 @@
 		)
 		(uuid "3e147ce1-21a6-4e77-a3db-fd00d575cd22")
 	)
-	(label "+5v"
-		(at 137.16 22.86 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "438bfc29-c054-4e2a-8dd2-0fd0b034d37b")
-	)
 	(label "HDMI0_CK_P"
 		(at 21.59 134.62 0)
 		(fields_autoplaced yes)
@@ -7866,17 +7975,6 @@
 			(justify left bottom)
 		)
 		(uuid "6999550c-f78a-4aae-9243-1b3881f5bb3b")
-	)
-	(label "HDMI0_CEC"
-		(at 102.87 88.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6df433d7-73cd-4877-8d2e-047853b9077c")
 	)
 	(label "HDMI0_D2_N"
 		(at 21.59 114.3 0)
@@ -8142,6 +8240,17 @@
 		)
 		(uuid "ed6d7103-e0b7-4d9e-9cdc-17cecd8217cb")
 	)
+	(label "HDMI0_CEC"
+		(at 102.87 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f631a39e-240b-4361-ac1a-7f71b49fad2f")
+	)
 	(label "USB3-1-D_P"
 		(at 102.87 104.14 0)
 		(fields_autoplaced yes)
@@ -8152,18 +8261,6 @@
 			(justify left bottom)
 		)
 		(uuid "fd146ca2-8fb8-4c71-9277-84f69bc5d3fc")
-	)
-	(hierarchical_label "USBOTG_ID"
-		(shape input)
-		(at 105.41 25.4 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "02b1295e-cf95-47ff-9c57-f8ada28f2e94")
 	)
 	(hierarchical_label "PCIE_PWR_EN"
 		(shape output)
@@ -8201,7 +8298,7 @@
 		)
 		(uuid "4aee84d1-0859-48ac-a053-5a981ee1b24a")
 	)
-	(hierarchical_label "+5v"
+	(hierarchical_label "+5V"
 		(shape input)
 		(at 123.19 55.88 180)
 		(fields_autoplaced yes)
@@ -8272,6 +8369,18 @@
 			(justify right)
 		)
 		(uuid "811f5389-c208-4640-ab1a-b454491bb330")
+	)
+	(hierarchical_label "+5V"
+		(shape input)
+		(at 137.16 22.86 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9fbde29e-2b4e-4d76-a128-fdc347dbb0fa")
 	)
 	(hierarchical_label "PCIE_nWAKE"
 		(shape input)

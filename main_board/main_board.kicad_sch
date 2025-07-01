@@ -412,6 +412,16 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 139.7) (xy 132.08 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4beb6a8e-18e0-45d9-ab72-e88059f33546")
+	)
+	(wire
+		(pts
 			(xy 95.25 114.3) (xy 149.86 114.3)
 		)
 		(stroke
@@ -492,6 +502,26 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 66.04) (xy 102.87 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d7e1024-b5b6-4873-8c13-2e8756d36c7c")
+	)
+	(wire
+		(pts
+			(xy 105.41 137.16) (xy 105.41 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3ac2221-5ee9-4890-8538-045514c00c9f")
+	)
+	(wire
+		(pts
 			(xy 171.45 81.28) (xy 199.39 81.28)
 		)
 		(stroke
@@ -562,13 +592,33 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 105.41) (xy 142.24 121.92)
+			(xy 105.41 63.5) (xy 82.55 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e912e5b9-3507-42d2-88ca-3097a8c81e85")
+		(uuid "e325914e-f0a1-413e-ad53-9f9712009906")
+	)
+	(wire
+		(pts
+			(xy 82.55 66.04) (xy 102.87 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6c11969-7a2e-475b-b1ca-87f6047037f9")
+	)
+	(wire
+		(pts
+			(xy 132.08 137.16) (xy 105.41 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f12b1f67-f289-4f06-8e62-735f67e522a7")
 	)
 	(wire
 		(pts
@@ -592,7 +642,7 @@
 	)
 	(text "Connectors\n-------\n40way RPI\nJumpers\nFan\nBattery"
 		(exclude_from_sim no)
-		(at 141.224 144.018 0)
+		(at 145.796 144.526 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -633,17 +683,6 @@
 			(justify left bottom)
 		)
 		(uuid "a501555e-bbc7-4b58-ad89-28a0cd3dd6d0")
-	)
-	(label "+5v"
-		(at 87.63 72.39 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b7c56ccc-9136-4f6a-bd5e-74754150f4df")
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
@@ -1850,7 +1889,7 @@
 				(justify left top)
 			)
 		)
-		(pin "+5v" input
+		(pin "+5V" input
 			(at 149.86 121.92 90)
 			(effects
 				(font
@@ -1860,15 +1899,25 @@
 			)
 			(uuid "efeac2a2-7682-4dc7-83ee-f6f1b23da506")
 		)
-		(pin "+3.3v" output
-			(at 142.24 121.92 90)
+		(pin "CM5_SDA" output
+			(at 132.08 137.16 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
-			(uuid "5fc27c35-3e1c-4f96-817c-93b5570858a6")
+			(uuid "43ba90b3-e531-41a9-8d00-2642a9d1f02e")
+		)
+		(pin "CM5_SCL" output
+			(at 132.08 139.7 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d45835c0-01e2-403e-9bb8-f7868d747fd0")
 		)
 		(instances
 			(project "main_board"
@@ -1928,7 +1977,7 @@
 			)
 			(uuid "0eaa98f0-9565-4637-ace3-42a5231b07f7")
 		)
-		(pin "+5v" input
+		(pin "+5V" input
 			(at 149.86 105.41 270)
 			(effects
 				(font
@@ -2017,16 +2066,6 @@
 				(justify right)
 			)
 			(uuid "94a873dc-af67-4ef9-8159-1f7c93eeb3d7")
-		)
-		(pin "+3.3v" input
-			(at 142.24 105.41 270)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "4c8eb964-bdf4-44de-90e9-e2ab82dd5313")
 		)
 		(pin "PCIE_PWR_EN" output
 			(at 171.45 81.28 0)
@@ -2166,7 +2205,7 @@
 			)
 			(uuid "a8e55cd4-1920-4f96-bf08-f3e7d5200a07")
 		)
-		(pin "+5v" input
+		(pin "+5V" input
 			(at 214.63 95.25 270)
 			(effects
 				(font
