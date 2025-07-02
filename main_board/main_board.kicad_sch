@@ -327,32 +327,42 @@
 		)
 	)
 	(junction
-		(at 149.86 114.3)
+		(at 134.62 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1155fedb-d26c-42b2-829e-1e53abeb0e9b")
 	)
 	(junction
-		(at 196.85 114.3)
+		(at 181.61 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "94798d14-5944-4d5f-8600-558bc4dd2be5")
 	)
 	(junction
-		(at 185.42 121.92)
+		(at 170.18 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf5901c0-daf4-45af-a380-5243d8455cd9")
 	)
 	(junction
-		(at 185.42 114.3)
+		(at 170.18 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dfa5beb6-566b-498d-96d2-0a9d4131aa10")
 	)
 	(wire
 		(pts
-			(xy 171.45 62.23) (xy 199.39 62.23)
+			(xy 77.47 53.34) (xy 77.47 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08f2e510-9a73-4e5d-a1fa-c579a9b54651")
+	)
+	(wire
+		(pts
+			(xy 156.21 38.1) (xy 184.15 38.1)
 		)
 		(stroke
 			(width 0)
@@ -362,7 +372,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 77.47) (xy 199.39 77.47)
+			(xy 156.21 53.34) (xy 184.15 53.34)
 		)
 		(stroke
 			(width 0)
@@ -372,7 +382,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 52.07) (xy 199.39 52.07)
+			(xy 156.21 27.94) (xy 184.15 27.94)
 		)
 		(stroke
 			(width 0)
@@ -382,7 +392,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 121.92) (xy 196.85 121.92)
+			(xy 170.18 97.79) (xy 181.61 97.79)
 		)
 		(stroke
 			(width 0)
@@ -392,7 +402,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 114.3) (xy 185.42 114.3)
+			(xy 181.61 90.17) (xy 170.18 90.17)
 		)
 		(stroke
 			(width 0)
@@ -402,7 +412,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 95.25) (xy 214.63 114.3)
+			(xy 199.39 71.12) (xy 199.39 90.17)
 		)
 		(stroke
 			(width 0)
@@ -412,7 +422,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 139.7) (xy 132.08 139.7)
+			(xy 87.63 115.57) (xy 116.84 115.57)
 		)
 		(stroke
 			(width 0)
@@ -422,7 +432,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 114.3) (xy 149.86 114.3)
+			(xy 80.01 90.17) (xy 134.62 90.17)
 		)
 		(stroke
 			(width 0)
@@ -432,7 +442,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 66.04) (xy 199.39 66.04)
+			(xy 156.21 41.91) (xy 184.15 41.91)
 		)
 		(stroke
 			(width 0)
@@ -442,7 +452,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 114.3) (xy 149.86 121.92)
+			(xy 134.62 90.17) (xy 134.62 97.79)
 		)
 		(stroke
 			(width 0)
@@ -452,7 +462,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 105.41) (xy 149.86 114.3)
+			(xy 134.62 81.28) (xy 134.62 90.17)
 		)
 		(stroke
 			(width 0)
@@ -462,7 +472,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 114.3) (xy 185.42 114.3)
+			(xy 134.62 90.17) (xy 170.18 90.17)
 		)
 		(stroke
 			(width 0)
@@ -472,7 +482,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 59.69) (xy 199.39 59.69)
+			(xy 156.21 35.56) (xy 184.15 35.56)
 		)
 		(stroke
 			(width 0)
@@ -482,7 +492,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 121.92) (xy 185.42 124.46)
+			(xy 170.18 97.79) (xy 170.18 100.33)
 		)
 		(stroke
 			(width 0)
@@ -492,7 +502,17 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 73.66) (xy 199.39 73.66)
+			(xy 77.47 123.19) (xy 116.84 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e7c9b0f-9908-4bf6-9031-042b06b6f76d")
+	)
+	(wire
+		(pts
+			(xy 156.21 49.53) (xy 184.15 49.53)
 		)
 		(stroke
 			(width 0)
@@ -502,7 +522,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 66.04) (xy 102.87 139.7)
+			(xy 87.63 41.91) (xy 87.63 115.57)
 		)
 		(stroke
 			(width 0)
@@ -512,7 +532,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 137.16) (xy 105.41 63.5)
+			(xy 90.17 113.03) (xy 90.17 39.37)
 		)
 		(stroke
 			(width 0)
@@ -522,7 +542,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 81.28) (xy 199.39 81.28)
+			(xy 156.21 57.15) (xy 184.15 57.15)
 		)
 		(stroke
 			(width 0)
@@ -532,7 +552,17 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 59.69) (xy 114.3 59.69)
+			(xy 67.31 53.34) (xy 77.47 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b02f6d3e-076b-45b7-bf93-8a55584ce2dc")
+	)
+	(wire
+		(pts
+			(xy 67.31 35.56) (xy 99.06 35.56)
 		)
 		(stroke
 			(width 0)
@@ -542,7 +572,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 68.58) (xy 199.39 68.58)
+			(xy 156.21 44.45) (xy 184.15 44.45)
 		)
 		(stroke
 			(width 0)
@@ -552,7 +582,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 72.39) (xy 95.25 114.3)
+			(xy 80.01 48.26) (xy 80.01 90.17)
 		)
 		(stroke
 			(width 0)
@@ -562,7 +592,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 114.3) (xy 214.63 114.3)
+			(xy 181.61 90.17) (xy 199.39 90.17)
 		)
 		(stroke
 			(width 0)
@@ -572,7 +602,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 72.39) (xy 95.25 72.39)
+			(xy 67.31 48.26) (xy 80.01 48.26)
 		)
 		(stroke
 			(width 0)
@@ -582,7 +612,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 57.15) (xy 114.3 57.15)
+			(xy 67.31 33.02) (xy 99.06 33.02)
 		)
 		(stroke
 			(width 0)
@@ -592,7 +622,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 63.5) (xy 82.55 63.5)
+			(xy 90.17 39.37) (xy 67.31 39.37)
 		)
 		(stroke
 			(width 0)
@@ -602,7 +632,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 66.04) (xy 102.87 66.04)
+			(xy 67.31 41.91) (xy 87.63 41.91)
 		)
 		(stroke
 			(width 0)
@@ -612,7 +642,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 137.16) (xy 105.41 137.16)
+			(xy 116.84 113.03) (xy 90.17 113.03)
 		)
 		(stroke
 			(width 0)
@@ -622,7 +652,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 54.61) (xy 199.39 54.61)
+			(xy 156.21 30.48) (xy 184.15 30.48)
 		)
 		(stroke
 			(width 0)
@@ -632,7 +662,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 85.09) (xy 199.39 85.09)
+			(xy 156.21 60.96) (xy 184.15 60.96)
 		)
 		(stroke
 			(width 0)
@@ -642,7 +672,7 @@
 	)
 	(text "Connectors\n-------\n40way RPI\nJumpers\nFan\nBattery"
 		(exclude_from_sim no)
-		(at 145.796 144.526 0)
+		(at 130.556 120.396 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -653,7 +683,7 @@
 	)
 	(text "Probably should be close to CM5"
 		(exclude_from_sim no)
-		(at 177.038 113.03 0)
+		(at 161.798 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -664,7 +694,7 @@
 	)
 	(text "Power management\n-------\nUSB C controller/charger\nBoost converter\nUSB multiplexer\nEmbedded MCU\n"
 		(exclude_from_sim no)
-		(at 37.338 58.166 0)
+		(at 22.098 34.036 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -675,7 +705,7 @@
 	)
 	(text "Connectors\n-------\nHDMI 0\nHDMI 1\nCSI/DSI 0\nCSI/DSI 1"
 		(exclude_from_sim no)
-		(at 134.62 67.31 0)
+		(at 119.38 43.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1550,7 +1580,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 196.85 118.11 0)
+		(at 181.61 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1558,7 +1588,7 @@
 		(dnp no)
 		(uuid "3c5f4bb0-04d2-46c1-9c7f-c06460df6a62")
 		(property "Reference" "C18"
-			(at 199.771 116.9416 0)
+			(at 184.531 92.8116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1567,7 +1597,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 199.771 119.253 0)
+			(at 184.531 95.123 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1576,7 +1606,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 197.8152 121.92 0)
+			(at 182.5752 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1585,7 +1615,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C104KA88-01.pdf"
-			(at 196.85 118.11 0)
+			(at 181.61 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1594,7 +1624,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 118.11 0)
+			(at 181.61 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1603,7 +1633,7 @@
 			)
 		)
 		(property "Field4" "Farnell"
-			(at 196.85 118.11 0)
+			(at 181.61 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1612,7 +1642,7 @@
 			)
 		)
 		(property "Field5" "2611911"
-			(at 196.85 118.11 0)
+			(at 181.61 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1621,7 +1651,7 @@
 			)
 		)
 		(property "Field6" "RM EMK105 B7104KV-F"
-			(at 196.85 118.11 0)
+			(at 181.61 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1630,7 +1660,7 @@
 			)
 		)
 		(property "Field7" "TAIYO YUDEN EUROPE GMBH"
-			(at 196.85 118.11 0)
+			(at 181.61 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1639,7 +1669,7 @@
 			)
 		)
 		(property "Field8" "110091611"
-			(at 196.85 118.11 0)
+			(at 181.61 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1648,7 +1678,7 @@
 			)
 		)
 		(property "Part Description" "	0.1uF 10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
-			(at 196.85 118.11 0)
+			(at 181.61 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1673,7 +1703,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 185.42 118.11 0)
+		(at 170.18 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1681,7 +1711,7 @@
 		(dnp no)
 		(uuid "cf24492d-8526-4d53-a0eb-2486aa3ca298")
 		(property "Reference" "C9"
-			(at 188.341 116.9416 0)
+			(at 173.101 92.8116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1690,7 +1720,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 188.341 119.253 0)
+			(at 173.101 95.123 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1699,7 +1729,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 186.3852 121.92 0)
+			(at 171.1452 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1708,7 +1738,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C104KA88-01.pdf"
-			(at 185.42 118.11 0)
+			(at 170.18 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1717,7 +1747,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 185.42 118.11 0)
+			(at 170.18 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1726,7 +1756,7 @@
 			)
 		)
 		(property "Field4" "Farnell"
-			(at 185.42 118.11 0)
+			(at 170.18 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1735,7 +1765,7 @@
 			)
 		)
 		(property "Field5" "2611911"
-			(at 185.42 118.11 0)
+			(at 170.18 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1744,7 +1774,7 @@
 			)
 		)
 		(property "Field6" "RM EMK105 B7104KV-F"
-			(at 185.42 118.11 0)
+			(at 170.18 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1753,7 +1783,7 @@
 			)
 		)
 		(property "Field7" "TAIYO YUDEN EUROPE GMBH"
-			(at 185.42 118.11 0)
+			(at 170.18 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1762,7 +1792,7 @@
 			)
 		)
 		(property "Field8" "110091611"
-			(at 185.42 118.11 0)
+			(at 170.18 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1771,7 +1801,7 @@
 			)
 		)
 		(property "Part Description" "	0.1uF 10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
-			(at 185.42 118.11 0)
+			(at 170.18 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1796,7 +1826,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 185.42 124.46 0)
+		(at 170.18 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1804,7 +1834,7 @@
 		(dnp no)
 		(uuid "fc0d6f0d-075c-4218-becf-ed01d64d2241")
 		(property "Reference" "#PWR013"
-			(at 185.42 130.81 0)
+			(at 170.18 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1813,7 +1843,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.547 128.8542 0)
+			(at 170.307 104.7242 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1821,7 +1851,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 124.46 0)
+			(at 170.18 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1830,7 +1860,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 124.46 0)
+			(at 170.18 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1839,7 +1869,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.42 124.46 0)
+			(at 170.18 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1860,7 +1890,7 @@
 		)
 	)
 	(sheet
-		(at 132.08 121.92)
+		(at 116.84 97.79)
 		(size 27.94 28.575)
 		(stroke
 			(width 0.1524)
@@ -1872,7 +1902,7 @@
 		)
 		(uuid "00000000-0000-0000-0000-00005cff706a")
 		(property "Sheetname" "CM5_GPIO"
-			(at 132.08 153.416 0)
+			(at 116.84 129.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1881,7 +1911,7 @@
 			)
 		)
 		(property "Sheetfile" "CM5_GPIO.kicad_sch"
-			(at 132.08 154.432 0)
+			(at 116.84 130.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1890,7 +1920,7 @@
 			)
 		)
 		(pin "+5V" input
-			(at 149.86 121.92 90)
+			(at 134.62 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1900,7 +1930,7 @@
 			(uuid "efeac2a2-7682-4dc7-83ee-f6f1b23da506")
 		)
 		(pin "CM5_SDA" output
-			(at 132.08 137.16 180)
+			(at 116.84 113.03 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1910,7 +1940,7 @@
 			(uuid "43ba90b3-e531-41a9-8d00-2642a9d1f02e")
 		)
 		(pin "CM5_SCL" output
-			(at 132.08 139.7 180)
+			(at 116.84 115.57 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1918,6 +1948,16 @@
 				(justify left)
 			)
 			(uuid "d45835c0-01e2-403e-9bb8-f7868d747fd0")
+		)
+		(pin "CM5_PMIC_EN" output
+			(at 116.84 123.19 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7e047c3f-b4f9-4cc3-aafa-1c825f6072d0")
 		)
 		(instances
 			(project "main_board"
@@ -1928,7 +1968,7 @@
 		)
 	)
 	(sheet
-		(at 114.3 43.18)
+		(at 99.06 19.05)
 		(size 57.15 62.23)
 		(stroke
 			(width 0.1524)
@@ -1940,7 +1980,7 @@
 		)
 		(uuid "00000000-0000-0000-0000-00005cff70b1")
 		(property "Sheetname" "CM5_HighSpeed"
-			(at 114.3 39.37 0)
+			(at 99.06 15.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1949,7 +1989,7 @@
 			)
 		)
 		(property "Sheetfile" "CM5_HighSpeed.kicad_sch"
-			(at 114.3 40.64 0)
+			(at 99.06 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1958,7 +1998,7 @@
 			)
 		)
 		(pin "USB2_N" bidirectional
-			(at 114.3 59.69 180)
+			(at 99.06 35.56 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1968,7 +2008,7 @@
 			(uuid "704d6d51-bb34-4cbf-83d8-841e208048d8")
 		)
 		(pin "USB2_P" bidirectional
-			(at 114.3 57.15 180)
+			(at 99.06 33.02 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1978,7 +2018,7 @@
 			(uuid "0eaa98f0-9565-4637-ace3-42a5231b07f7")
 		)
 		(pin "+5V" input
-			(at 149.86 105.41 270)
+			(at 134.62 81.28 270)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1988,7 +2028,7 @@
 			(uuid "0f22151c-f260-4674-b486-4710a2c42a55")
 		)
 		(pin "PCIE_CLK_P" output
-			(at 171.45 66.04 0)
+			(at 156.21 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1998,7 +2038,7 @@
 			(uuid "fe8d9267-7834-48d6-a191-c8724b2ee78d")
 		)
 		(pin "PCIE_CLK_N" output
-			(at 171.45 68.58 0)
+			(at 156.21 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2008,7 +2048,7 @@
 			(uuid "0b21a65d-d20b-411e-920a-75c343ac5136")
 		)
 		(pin "PCIE_TX_P" output
-			(at 171.45 52.07 0)
+			(at 156.21 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2018,7 +2058,7 @@
 			(uuid "3cd1bda0-18db-417d-b581-a0c50623df68")
 		)
 		(pin "PCIE_TX_N" output
-			(at 171.45 54.61 0)
+			(at 156.21 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2028,7 +2068,7 @@
 			(uuid "d57dcfee-5058-4fc2-a68b-05f9a48f685b")
 		)
 		(pin "PCIE_nRST" output
-			(at 171.45 73.66 0)
+			(at 156.21 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2038,7 +2078,7 @@
 			(uuid "03c52831-5dc5-43c5-a442-8d23643b46fb")
 		)
 		(pin "PCIE_RX_P" input
-			(at 171.45 59.69 0)
+			(at 156.21 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2048,7 +2088,7 @@
 			(uuid "a1823eb2-fb0d-4ed8-8b96-04184ac3a9d5")
 		)
 		(pin "PCIE_RX_N" input
-			(at 171.45 62.23 0)
+			(at 156.21 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2058,7 +2098,7 @@
 			(uuid "29e78086-2175-405e-9ba3-c48766d2f50c")
 		)
 		(pin "PCIE_nCLKREQ" input
-			(at 171.45 77.47 0)
+			(at 156.21 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2068,7 +2108,7 @@
 			(uuid "94a873dc-af67-4ef9-8159-1f7c93eeb3d7")
 		)
 		(pin "PCIE_PWR_EN" output
-			(at 171.45 81.28 0)
+			(at 156.21 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2078,7 +2118,7 @@
 			(uuid "e445000d-94a3-4ed1-b023-6aae972d0a39")
 		)
 		(pin "PCIE_nWAKE" input
-			(at 171.45 85.09 0)
+			(at 156.21 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2096,7 +2136,7 @@
 		)
 	)
 	(sheet
-		(at 199.39 43.18)
+		(at 184.15 19.05)
 		(size 27.94 52.07)
 		(stroke
 			(width 0.152)
@@ -2108,7 +2148,7 @@
 		)
 		(uuid "63fa79ab-a709-47d9-85c3-717256c946ec")
 		(property "Sheetname" "PCIe-M2"
-			(at 199.136 40.132 0)
+			(at 183.896 16.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2117,7 +2157,7 @@
 			)
 		)
 		(property "Sheetfile" "PCIe-M2.kicad_sch"
-			(at 199.136 41.148 0)
+			(at 183.896 17.018 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2126,7 +2166,7 @@
 			)
 		)
 		(pin "PCIE_CLK_P" input
-			(at 199.39 66.04 180)
+			(at 184.15 41.91 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2136,7 +2176,7 @@
 			(uuid "cba0879d-caef-4bfa-a490-2a23801b523b")
 		)
 		(pin "PCIE_CLK_N" input
-			(at 199.39 68.58 180)
+			(at 184.15 44.45 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2146,7 +2186,7 @@
 			(uuid "87c68ea5-cdc4-4335-9b08-0ee8d30d6c4c")
 		)
 		(pin "PCIE_TX_P" input
-			(at 199.39 52.07 180)
+			(at 184.15 27.94 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2156,7 +2196,7 @@
 			(uuid "750cbf33-4119-4369-bd65-60ddbd26ddfe")
 		)
 		(pin "PCIE_TX_N" input
-			(at 199.39 54.61 180)
+			(at 184.15 30.48 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2166,7 +2206,7 @@
 			(uuid "2b719efb-411c-4ee6-a2bf-c8ef5c7f1ecc")
 		)
 		(pin "PCIE_nCLKREQ" output
-			(at 199.39 77.47 180)
+			(at 184.15 53.34 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2176,7 +2216,7 @@
 			(uuid "d4095a3b-bb06-4e4f-86b9-1fdab3a4413c")
 		)
 		(pin "PCIE_nRST" input
-			(at 199.39 73.66 180)
+			(at 184.15 49.53 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2186,7 +2226,7 @@
 			(uuid "10344342-02c5-4288-98fa-fd45fb5aa316")
 		)
 		(pin "PCIE_RX_P" output
-			(at 199.39 59.69 180)
+			(at 184.15 35.56 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2196,7 +2236,7 @@
 			(uuid "d9099990-e4a8-4293-a642-4f32130e68c6")
 		)
 		(pin "PCIE_RX_N" output
-			(at 199.39 62.23 180)
+			(at 184.15 38.1 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2206,7 +2246,7 @@
 			(uuid "a8e55cd4-1920-4f96-bf08-f3e7d5200a07")
 		)
 		(pin "+5V" input
-			(at 214.63 95.25 270)
+			(at 199.39 71.12 270)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2216,7 +2256,7 @@
 			(uuid "7fae51b0-c2e3-4e6e-ac04-84e45e189152")
 		)
 		(pin "PCIE_PWR_EN" input
-			(at 199.39 81.28 180)
+			(at 184.15 57.15 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2226,7 +2266,7 @@
 			(uuid "fca124d6-b904-4d18-9db4-1a0d418e4fe0")
 		)
 		(pin "PCIE_nWAKE" output
-			(at 199.39 85.09 180)
+			(at 184.15 60.96 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2244,7 +2284,54 @@
 		)
 	)
 	(sheet
-		(at 35.56 44.45)
+		(at 193.04 104.14)
+		(size 57.15 55.88)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8ade458f-3716-451b-8a99-64b8f3be0668")
+		(property "Sheetname" "USB hub"
+			(at 193.04 103.4284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_hub.kicad_sch"
+			(at 193.04 160.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 193.04 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "main_board"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 20.32)
 		(size 46.99 38.1)
 		(fields_autoplaced yes)
 		(stroke
@@ -2256,7 +2343,7 @@
 		)
 		(uuid "b84f1a66-243e-4389-abcf-18bc380f8da3")
 		(property "Sheetname" "Battery management"
-			(at 35.56 43.7384 0)
+			(at 20.32 19.6084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2265,7 +2352,7 @@
 			)
 		)
 		(property "Sheetfile" "bat.kicad_sch"
-			(at 35.56 83.1346 0)
+			(at 20.32 59.0046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2274,7 +2361,7 @@
 			)
 		)
 		(pin "+5V" output
-			(at 82.55 72.39 0)
+			(at 67.31 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2284,7 +2371,7 @@
 			(uuid "311d98f5-64b3-42c6-b50d-f51e7901e196")
 		)
 		(pin "IIC_SDA" output
-			(at 82.55 63.5 0)
+			(at 67.31 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2294,7 +2381,7 @@
 			(uuid "88311128-a079-446b-b66d-b5cf8599f3bd")
 		)
 		(pin "IIC_SCL" output
-			(at 82.55 66.04 0)
+			(at 67.31 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2304,7 +2391,7 @@
 			(uuid "8dda4ed7-94a3-4107-b1cc-2f7c98ac7320")
 		)
 		(pin "USBC_MX1_USB2_N" output
-			(at 82.55 59.69 0)
+			(at 67.31 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2314,7 +2401,7 @@
 			(uuid "e3f0e93b-8c23-4a3e-a255-f92c7eb5c62d")
 		)
 		(pin "USBC_MX1_USB2_P" output
-			(at 82.55 57.15 0)
+			(at 67.31 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2322,6 +2409,16 @@
 				(justify right)
 			)
 			(uuid "bd1b4be3-fe84-4871-aba7-b2144387cc92")
+		)
+		(pin "CM5_PMIC_EN" output
+			(at 67.31 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b84c75f6-0029-45fd-94ce-1b04f3f3d4e6")
 		)
 		(instances
 			(project "main_board"

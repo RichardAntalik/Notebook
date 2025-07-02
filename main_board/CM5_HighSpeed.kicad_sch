@@ -10388,7 +10388,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Library:U3BU1ASMT1"
+		(property "Footprint" "000_custom:U3BU1ASMT1"
 			(at 262.89 40.64 0)
 			(effects
 				(font
