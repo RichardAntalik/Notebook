@@ -1,4 +1,4 @@
-23797354556989475
+23800859194244142
 000_custom
 AP2204R33TRG1
 Diodes SOT-89_1
@@ -6,6 +6,20 @@ Integrated Circuit
 0
 4
 4
+000_custom
+Bat_terminal
+Terminal Block 4Ucon ItemNo. 19963, 2 pins, pitch 3.5mm, size 7.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/19963.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 19963 pitch 3.5mm size 7.7x7mm^2 drill 1.2mm pad 2.4mm
+0
+2
+2
+000_custom
+DGS10
+
+INA220AIDGST 
+0
+10
+10
 000_custom
 MP2722GRH0000Z
 QFN-22 (2.5mmx3.5mm)

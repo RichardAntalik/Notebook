@@ -962,9 +962,9 @@
 		)
 		(uuid "ffae791f-4989-44a0-87a2-f71baf3cf7f3")
 	)
-	(text "Connectors\n-------\n40way RPI\nJumpers\nFan\nBattery"
+	(text "Connectors\n-------\nSound interface\n"
 		(exclude_from_sim no)
-		(at 134.366 120.396 0)
+		(at 131.318 113.538 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -984,9 +984,9 @@
 		)
 		(uuid "71e80a5c-3fbc-4880-9f9e-fc7f105b706d")
 	)
-	(text "Power management\n-------\nUSB C controller/charger\nBoost converter\nUSB multiplexer\nEmbedded MCU\n"
+	(text "Power management\n-------\nUSB C controller/charger\nBoost converter\nUSB multiplexer\nEmbedded MCU\nPower metering\n"
 		(exclude_from_sim no)
-		(at 22.098 34.036 0)
+		(at 22.352 36.322 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -995,7 +995,7 @@
 		)
 		(uuid "76ee246d-fe78-469f-9603-d60722f087ab")
 	)
-	(text "Connectors\n-------\nHDMI 0\nHDMI 1\nCSI/DSI 0\nCSI/DSI 1"
+	(text "Connectors\n-------\nHDMI\nCSI/DSI\nUSB\n"
 		(exclude_from_sim no)
 		(at 119.38 43.18 0)
 		(effects

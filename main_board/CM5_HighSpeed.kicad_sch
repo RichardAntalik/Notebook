@@ -7928,16 +7928,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 82.55) (xy 273.05 82.55)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "737c1279-01cf-4d1e-b02f-5cdf00e0230a")
-	)
-	(wire
-		(pts
 			(xy 180.34 22.86) (xy 200.66 22.86)
 		)
 		(stroke
@@ -8178,26 +8168,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 92.71) (xy 273.05 92.71)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "8d01b639-5e3e-4583-99af-711eee4c9ec6")
-	)
-	(wire
-		(pts
-			(xy 256.54 77.47) (xy 273.05 77.47)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "90c31048-c1c7-4216-972e-4d78ec5a342d")
-	)
-	(wire
-		(pts
 			(xy 99.06 91.44) (xy 115.57 91.44)
 		)
 		(stroke
@@ -8348,16 +8318,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 105.41) (xy 273.05 105.41)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "a15574f1-bebf-4250-9663-a2c6e7ac6678")
-	)
-	(wire
-		(pts
 			(xy 233.68 48.26) (xy 254 48.26)
 		)
 		(stroke
@@ -8405,16 +8365,6 @@
 			(type solid)
 		)
 		(uuid "a9d564c9-1413-4421-bda7-fdc644c130d9")
-	)
-	(wire
-		(pts
-			(xy 256.54 97.79) (xy 273.05 97.79)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "aa269521-191d-44c0-8f30-3fffde2a331a")
 	)
 	(wire
 		(pts
@@ -8585,16 +8535,6 @@
 			(type solid)
 		)
 		(uuid "bcfbc157-43ce-49f7-bd18-6a9e2f2f30a3")
-	)
-	(wire
-		(pts
-			(xy 256.54 85.09) (xy 273.05 85.09)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "bd7e2eec-f259-427e-9fba-05159cc2985c")
 	)
 	(wire
 		(pts
@@ -8786,16 +8726,6 @@
 		)
 		(uuid "d4b30264-d7fc-4b44-9834-16be0ce12b3b")
 	)
-	(wire
-		(pts
-			(xy 256.54 90.17) (xy 273.05 90.17)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "d5272f08-01bc-4c00-abbc-e2f5c9e283c2")
-	)
 	(polyline
 		(pts
 			(xy 250.19 138.43) (xy 207.01 138.43)
@@ -8845,16 +8775,6 @@
 			(type solid)
 		)
 		(uuid "d7ac973c-4551-45be-9a1a-6c1bad237f3f")
-	)
-	(wire
-		(pts
-			(xy 256.54 100.33) (xy 273.05 100.33)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "d7d4a721-ec65-4297-972b-2b36c64cc96a")
 	)
 	(wire
 		(pts
@@ -8965,26 +8885,6 @@
 			(type solid)
 		)
 		(uuid "de96a448-359a-49ac-b7aa-4391aeea96eb")
-	)
-	(wire
-		(pts
-			(xy 256.54 107.95) (xy 273.05 107.95)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "dea1a210-b142-45f3-9e24-6d57028992c2")
-	)
-	(wire
-		(pts
-			(xy 256.54 74.93) (xy 273.05 74.93)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "dfc12559-5429-48d6-b539-25368be6d77e")
 	)
 	(wire
 		(pts
@@ -9279,17 +9179,6 @@
 		)
 		(uuid "02289c61-13df-495e-a809-03e3a71bb201")
 	)
-	(label "DPHY1_D2_P"
-		(at 256.54 100.33 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "09a208d5-b20f-44f2-9dd0-713b1a108015")
-	)
 	(label "USB3-0-RX_N"
 		(at 237.49 35.56 0)
 		(fields_autoplaced yes)
@@ -9356,17 +9245,6 @@
 		)
 		(uuid "1354f572-0b69-4ff1-943a-0144fc5364df")
 	)
-	(label "DPHY1_D0_N"
-		(at 256.54 74.93 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "14c94639-a24b-4f95-946d-b78b72919fc5")
-	)
 	(label "HDMI0_D1_N"
 		(at 146.05 85.09 0)
 		(fields_autoplaced yes)
@@ -9410,17 +9288,6 @@
 			(justify left bottom)
 		)
 		(uuid "1ab4dceb-24cc-4050-aa74-e8fbb39d3760")
-	)
-	(label "DPHY1_D1_P"
-		(at 256.54 85.09 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1ea654b4-3958-4e32-8271-20b1840771ba")
 	)
 	(label "DPHY1_C_N"
 		(at 102.87 134.62 0)
@@ -9498,17 +9365,6 @@
 			(justify right bottom)
 		)
 		(uuid "2de2545d-ac30-4258-b906-8f38c33876ad")
-	)
-	(label "DPHY1_D2_N"
-		(at 256.54 97.79 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "319b50d2-dfd0-4d27-92e5-e7870352ebb5")
 	)
 	(label "DPHY0_D3_P"
 		(at 217.17 110.49 0)
@@ -9685,17 +9541,6 @@
 			(justify left bottom)
 		)
 		(uuid "5ddacad0-63a1-42b0-bae7-86ca34bfe74f")
-	)
-	(label "DPHY1_D3_N"
-		(at 256.54 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "602a0a90-e688-4727-8e07-674fe50233d2")
 	)
 	(label "USB3-0-D_P"
 		(at 237.49 40.64 0)
@@ -10049,28 +9894,6 @@
 		)
 		(uuid "cfcae4a3-5d05-48fe-9a5f-9dcd4da4bd65")
 	)
-	(label "DPHY1_D0_P"
-		(at 256.54 77.47 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d16ee1d5-a7f0-495b-8caa-642a0ab391bf")
-	)
-	(label "DPHY1_D1_N"
-		(at 256.54 82.55 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d32e1347-d21a-4547-8dfd-a033c90f3e7c")
-	)
 	(label "HDMI0_HOTPLUG"
 		(at 102.87 91.44 0)
 		(fields_autoplaced yes)
@@ -10081,17 +9904,6 @@
 			(justify left bottom)
 		)
 		(uuid "d5b0938b-9efb-4b58-8ac4-d92da9ed2e30")
-	)
-	(label "DPHY1_D3_P"
-		(at 256.54 107.95 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d76e650d-29ba-415d-aa45-f98b57f22539")
 	)
 	(label "HDMI0_CEC"
 		(at 146.05 100.33 0)
@@ -10126,17 +9938,6 @@
 		)
 		(uuid "dbfb14d7-1f97-4dd2-9004-1d129d3b4221")
 	)
-	(label "DPHY1_C_P"
-		(at 256.54 92.71 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "dcffd84d-2c11-40c3-84c7-ddfb75b6fc65")
-	)
 	(label "DPHY1_D2_P"
 		(at 102.87 144.78 0)
 		(fields_autoplaced yes)
@@ -10169,17 +9970,6 @@
 			(justify left bottom)
 		)
 		(uuid "de85d283-4b8c-4ef6-b80a-ca62cbdf985b")
-	)
-	(label "DPHY1_C_N"
-		(at 256.54 90.17 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "df1eeb57-5937-4179-bb7f-b46f2939981c")
 	)
 	(label "HDMI0_SCL"
 		(at 146.05 105.41 0)
