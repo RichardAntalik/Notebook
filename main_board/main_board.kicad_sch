@@ -345,6 +345,12 @@
 		(uuid "bf5901c0-daf4-45af-a380-5243d8455cd9")
 	)
 	(junction
+		(at 130.81 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "df1e0c55-c364-4426-bb6a-805ba03fb200")
+	)
+	(junction
 		(at 80.01 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -415,16 +421,6 @@
 			(type default)
 		)
 		(uuid "07e2eab3-0dc9-4c07-a968-a106fa8d8c6b")
-	)
-	(wire
-		(pts
-			(xy 83.82 44.45) (xy 83.82 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08f2e510-9a73-4e5d-a1fa-c579a9b54651")
 	)
 	(wire
 		(pts
@@ -578,6 +574,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 50.8) (xy 67.31 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "551097cd-75f4-4819-a663-f8f019b20117")
+	)
+	(wire
+		(pts
 			(xy 156.21 41.91) (xy 184.15 41.91)
 		)
 		(stroke
@@ -638,16 +644,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 118.11) (xy 116.84 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e7c9b0f-9908-4bf6-9031-042b06b6f76d")
-	)
-	(wire
-		(pts
 			(xy 156.21 49.53) (xy 184.15 49.53)
 		)
 		(stroke
@@ -698,6 +694,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 87.63) (xy 130.81 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "989e9d0e-91be-487c-8b46-2ef544ad00af")
+	)
+	(wire
+		(pts
 			(xy 152.4 128.27) (xy 208.28 128.27)
 		)
 		(stroke
@@ -738,16 +744,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 44.45) (xy 83.82 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b02f6d3e-076b-45b7-bf93-8a55584ce2dc")
-	)
-	(wire
-		(pts
 			(xy 172.72 67.31) (xy 172.72 100.33)
 		)
 		(stroke
@@ -775,6 +771,16 @@
 			(type solid)
 		)
 		(uuid "b4f385c6-872a-4056-a543-aa8bf444002f")
+	)
+	(wire
+		(pts
+			(xy 130.81 87.63) (xy 77.47 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bab794d5-feae-433d-b874-a61513d059aa")
 	)
 	(wire
 		(pts
@@ -858,6 +864,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 87.63) (xy 77.47 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecd436f4-3336-4a25-b681-b6809e66777d")
+	)
+	(wire
+		(pts
 			(xy 170.18 69.85) (xy 170.18 102.87)
 		)
 		(stroke
@@ -938,7 +954,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 81.28) (xy 130.81 97.79)
+			(xy 130.81 81.28) (xy 130.81 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2916,15 +2932,15 @@
 			)
 			(uuid "bd1b4be3-fe84-4871-aba7-b2144387cc92")
 		)
-		(pin "CM5_PMIC_EN" output
-			(at 67.31 44.45 0)
+		(pin "3.3v" output
+			(at 67.31 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b84c75f6-0029-45fd-94ce-1b04f3f3d4e6")
+			(uuid "a3f63166-ddd6-437a-b5e9-bf9fd8e91cfc")
 		)
 		(instances
 			(project "main_board"
