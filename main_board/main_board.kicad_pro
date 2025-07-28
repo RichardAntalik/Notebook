@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.8542,
-          "width": 1.1938
+          "drill": 0.9,
+          "height": 3.5,
+          "width": 3.5
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -131,7 +131,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.2,
-        "min_track_width": 0.06,
+        "min_track_width": 0.14,
         "min_via_annular_width": 0.1,
         "min_via_annulus": 0.049999999999999996,
         "min_via_diameter": 0.45,
@@ -237,7 +237,7 @@
           "drill": 0.2
         }
       ],
-      "zones_allow_external_fillets": false,
+      "zones_allow_external_fillets": true,
       "zones_use_no_outline": false
     },
     "ipc2581": {
