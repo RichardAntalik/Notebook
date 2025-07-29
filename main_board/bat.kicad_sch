@@ -9699,7 +9699,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "POWERFLAT_3P3X3P3_STM"
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 195.58 20.32 0)
 			(effects
 				(font
