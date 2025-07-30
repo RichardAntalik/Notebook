@@ -95,10 +95,22 @@
 		)
 	)
 	(junction
+		(at 148.59 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00254c40-26b0-4446-9d0a-4b5d04193a01")
+	)
+	(junction
 		(at 134.62 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1155fedb-d26c-42b2-829e-1e53abeb0e9b")
+	)
+	(junction
+		(at 149.86 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "25851fdb-3fd0-4949-b36a-595b009e9065")
 	)
 	(junction
 		(at 87.63 45.72)
@@ -124,11 +136,15 @@
 		(color 0 0 0 0)
 		(uuid "85dc6ad3-688b-4303-88e1-4c1b2072bc1e")
 	)
-	(junction
-		(at 148.59 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e9be1a58-87b7-4d1d-bb81-a80c1cc99bd4")
+	(wire
+		(pts
+			(xy 148.59 87.63) (xy 148.59 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01679069-1a8a-433c-b87b-b4d85b083c09")
 	)
 	(wire
 		(pts
@@ -139,6 +155,16 @@
 			(type default)
 		)
 		(uuid "01bc8b49-c160-4da5-86fb-2187d8f8effb")
+	)
+	(wire
+		(pts
+			(xy 148.59 148.59) (xy 148.59 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02a43c2c-7c61-488d-83b5-f19103278eb1")
 	)
 	(wire
 		(pts
@@ -172,6 +198,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 144.78) (xy 149.86 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "047bcad3-2a41-4f9d-bd84-5df4ffbe4e45")
+	)
+	(wire
+		(pts
 			(xy 124.46 138.43) (xy 124.46 148.59)
 		)
 		(stroke
@@ -199,6 +235,16 @@
 			(type default)
 		)
 		(uuid "07e2eab3-0dc9-4c07-a968-a106fa8d8c6b")
+	)
+	(wire
+		(pts
+			(xy 130.81 81.28) (xy 130.81 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08deaf3a-01f1-4855-a7e0-3f435fff6eb1")
 	)
 	(wire
 		(pts
@@ -332,6 +378,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 148.59) (xy 146.05 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49cb5c66-5970-4197-8251-6262e36de7e5")
+	)
+	(wire
+		(pts
 			(xy 199.39 71.12) (xy 199.39 90.17)
 		)
 		(stroke
@@ -392,6 +448,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 95.25) (xy 237.49 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e26d441-d463-4040-962c-c994bb1ace1e")
+	)
+	(wire
+		(pts
 			(xy 165.1 107.95) (xy 165.1 74.93)
 		)
 		(stroke
@@ -422,6 +488,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 143.51) (xy 148.59 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61d17e9f-ade8-4282-8243-dbb986c7d4fc")
+	)
+	(wire
+		(pts
 			(xy 175.26 97.79) (xy 175.26 64.77)
 		)
 		(stroke
@@ -439,6 +515,16 @@
 			(type default)
 		)
 		(uuid "63e0bb0b-ecc5-40cf-91b2-6b039d6418e1")
+	)
+	(wire
+		(pts
+			(xy 148.59 87.63) (xy 237.49 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65fc4cb4-a4fb-4d07-8c88-4b488e349021")
 	)
 	(wire
 		(pts
@@ -572,7 +658,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 90.17) (xy 148.59 148.59)
+			(xy 149.86 90.17) (xy 149.86 144.78)
 		)
 		(stroke
 			(width 0)
@@ -599,6 +685,16 @@
 			(type default)
 		)
 		(uuid "9d74ef83-24fe-4223-9064-0ad52e948498")
+	)
+	(wire
+		(pts
+			(xy 130.81 87.63) (xy 148.59 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e71cc0c-2446-45c8-8e45-dd62247aa9d6")
 	)
 	(wire
 		(pts
@@ -639,16 +735,6 @@
 			(type default)
 		)
 		(uuid "aa6808b8-3eee-4c05-9a29-a25266ca1fb1")
-	)
-	(wire
-		(pts
-			(xy 148.59 90.17) (xy 199.39 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aab4dbc2-27ec-4eda-a1eb-bef9bfced522")
 	)
 	(wire
 		(pts
@@ -742,7 +828,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 90.17) (xy 148.59 90.17)
+			(xy 134.62 90.17) (xy 149.86 90.17)
 		)
 		(stroke
 			(width 0)
@@ -882,6 +968,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 90.17) (xy 199.39 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa27535d-31b4-4b5f-ac3c-3708e8aa58ba")
+	)
+	(wire
+		(pts
 			(xy 156.21 60.96) (xy 184.15 60.96)
 		)
 		(stroke
@@ -929,16 +1025,6 @@
 			(type default)
 		)
 		(uuid "ff40f949-11fe-4fa9-af2e-7deb0b77fb0b")
-	)
-	(wire
-		(pts
-			(xy 130.81 81.28) (xy 130.81 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ffae791f-4989-44a0-87a2-f71baf3cf7f3")
 	)
 	(text "Connectors\n-------\nSound interface\n"
 		(exclude_from_sim no)
@@ -2710,6 +2796,16 @@
 			)
 			(uuid "01d4578e-6930-4bca-b245-7f5f2e683638")
 		)
+		(pin "+3.3V" output
+			(at 146.05 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "42d01a09-e8ee-47c2-a8f8-3b4ba2aa00fc")
+		)
 		(instances
 			(project "main_board"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -2856,6 +2952,16 @@
 				(justify left)
 			)
 			(uuid "870e9ce1-6233-4ef2-b53a-21e7023c2d25")
+		)
+		(pin "+3.3V" input
+			(at 237.49 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d856e853-96eb-498e-a9d0-0eed80745788")
 		)
 		(instances
 			(project "main_board"
