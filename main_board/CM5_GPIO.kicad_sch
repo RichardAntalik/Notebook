@@ -288,8 +288,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "Module"
-				(at 113.03 -68.58 0)
+			(property "Reference" "Module1"
+				(at -2.54 61.595 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -297,7 +297,7 @@
 				)
 			)
 			(property "Value" "ComputeModule5-CM5"
-				(at 140.97 2.54 0)
+				(at -2.54 59.2836 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -322,7 +322,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "RaspberryPi Compute module 5 "
+			(property "Description" "RaspberryPi Compute module 5"
 				(at 0 0 0)
 				(effects
 					(font
@@ -345,6 +345,33 @@
 					(font
 						(size 1.27 1.27)
 					)
+				)
+			)
+			(property "Field6" "2x 10164227-1001A1RLF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Field7" "Hirose"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Part Description" "	100 Position Connector Receptacle, Center Strip Contacts Surface Mount Gold"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
@@ -2202,6 +2229,24 @@
 						)
 					)
 					(number "99"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -73.66 90)
+					(length 2.54)
+					(name "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4653,6 +4698,12 @@
 		(uuid "2eccdb81-67c7-4ca1-a66b-e664e40d24a1")
 	)
 	(junction
+		(at 93.98 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "322d135c-2a02-4890-a186-9a9229fa7adb")
+	)
+	(junction
 		(at 59.69 81.28)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -4755,6 +4806,12 @@
 		(uuid "8aab8419-5853-44cf-bb89-b1e4c614244a")
 	)
 	(junction
+		(at 59.69 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8fd424a4-3143-4c31-b6e7-ee5926f86083")
+	)
+	(junction
 		(at 59.69 93.98)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -4807,6 +4864,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc429e50-7b71-4a5d-83aa-3e93ce0e1111")
+	)
+	(junction
+		(at 123.19 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d18e355a-7327-4786-9377-215a58f150f3")
 	)
 	(junction
 		(at 123.19 119.38)
@@ -5510,6 +5573,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 160.02) (xy 93.98 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46d9df6c-b637-4573-a592-93282b71b0f4")
+	)
+	(wire
+		(pts
 			(xy 121.92 154.94) (xy 181.61 154.94)
 		)
 		(stroke
@@ -5977,6 +6050,16 @@
 			(type solid)
 		)
 		(uuid "9436b75b-a139-4eee-ae0d-67fc7036a048")
+	)
+	(wire
+		(pts
+			(xy 93.98 160.02) (xy 123.19 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "946f4939-234c-44eb-803f-fb6650f2a133")
 	)
 	(wire
 		(pts
@@ -7676,6 +7759,9 @@
 		)
 		(pin "200"
 			(uuid "54cd07ae-2c6c-4038-9598-b6e1df70795e")
+		)
+		(pin "MP"
+			(uuid "0531cfb5-84b7-4d56-bb4b-2d8b296a286f")
 		)
 		(instances
 			(project "CM5IO"
