@@ -1,20 +1,20 @@
-# This is experimental IO board for RPI CM5
+# RPI CM5 based notebook
 
-The goal here is to design electronics needed for small notebook with 8 inch display.
+The design of small notebook with 8 inch display.
 This is mainly a fun project, excersise in device production capability and integration
-of complex systems.
+of complex systems at my home lab.
 
-Highly experimental, likely untested in latest revision!
+At revision 3 most subsystems are tested and working, but not as a whole.
 
 ## Features
 - Smol
 - 2 layer PCB layout! Optimized for home production
 - Has integrated power management for 1S lipo pack
-- Implements USB, HDMI and PCIe IO
+- Implements 4xUSB + 2 internal ports, 1x HDMI + 1 internal HDMI and DSI/CSI, PCIe, GPIO in card format and simple sound output
+
+![Main board](/mb.PNG)
 
 ## TODO
-- Display interface (will likely use plain DSI with compatible LCD instead of LT6911C over HDMI)
-- USB hub for more IO
-- Sound interface
-- Extension interface
-- likely will need to design custom keyboard
+- Custom keyboard with some touchpad or trackball or whatnot
+- Display board
+- Case
