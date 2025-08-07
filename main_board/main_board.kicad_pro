@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.4,
-          "height": 2.4,
-          "width": 1.4
+          "drill": 1.65,
+          "height": 1.65,
+          "width": 1.65
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -530,7 +530,7 @@
       "gencad": "CM5IOUSB3.cad",
       "idf": "",
       "netlist": "main_board.net",
-      "plot": "./",
+      "plot": "/home/me/Desktop/",
       "pos_files": "RPI-CM5IO-Gerber200924/",
       "specctra_dsn": "",
       "step": "",
