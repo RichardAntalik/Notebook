@@ -954,7 +954,7 @@
 		)
 		(uuid "3cfcbcc7-4f45-46ab-82a8-c414c7972161")
 	)
-	(text "Power management\n-------\nUSB C controller/charger\nBoost converter\nUSB multiplexer\nEmbedded MCU\nPower metering\n"
+	(text "Power management\n-------\nUSB C controller\nBattery charger\nBoost converter\nEmbedded MCU\nPower metering\n"
 		(exclude_from_sim no)
 		(at 22.352 36.322 0)
 		(effects

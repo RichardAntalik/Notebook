@@ -12323,7 +12323,7 @@
 	)
 	(text "USB Current Limit switch"
 		(exclude_from_sim no)
-		(at 204.47 19.05 0)
+		(at 214.884 17.018 0)
 		(effects
 			(font
 				(size 1.27 1.27)
