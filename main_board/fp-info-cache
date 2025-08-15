@@ -1,4 +1,4 @@
-23816642175050822
+23818397302284897
 000_custom
 AP2204R33TRG1
 Diodes SOT-89_1
@@ -111,6 +111,13 @@ Integrated Circuit
 0
 8
 8
+000_custom
+SOP65P640X120-20N
+PW (R-PDSO-G20)
+Integrated Circuit
+0
+20
+20
 000_custom
 STUSB4500
 

@@ -113,16 +113,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 138.43) (xy 124.46 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04b52602-b6e2-4531-9697-5e8df5f3524f")
-	)
-	(wire
-		(pts
 			(xy 43.18 58.42) (xy 43.18 113.03)
 		)
 		(stroke
@@ -563,16 +553,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 138.43) (xy 134.62 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d74ef83-24fe-4223-9064-0ad52e948498")
-	)
-	(wire
-		(pts
 			(xy 130.81 87.63) (xy 148.59 87.63)
 		)
 		(stroke
@@ -763,6 +743,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 138.43) (xy 124.46 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5fc9aca-feed-4b0c-b1f8-b5c15f469dc8")
+	)
+	(wire
+		(pts
 			(xy 121.92 138.43) (xy 121.92 148.59)
 		)
 		(stroke
@@ -810,16 +800,6 @@
 			(type default)
 		)
 		(uuid "e8774928-963b-42f9-b0ea-9afa8892bb6a")
-	)
-	(wire
-		(pts
-			(xy 132.08 138.43) (xy 132.08 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea2787f7-bc4f-4fb0-aa2e-62ef06a4d5e7")
 	)
 	(wire
 		(pts
@@ -1124,16 +1104,6 @@
 			)
 			(uuid "ebaa5d02-5074-4499-8d99-3e106e14e604")
 		)
-		(pin "GP19" output
-			(at 124.46 138.43 270)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "0e1cc493-591f-433f-a570-daf2cfbca0e4")
-		)
 		(pin "GP6" output
 			(at 127 138.43 270)
 			(effects
@@ -1154,25 +1124,15 @@
 			)
 			(uuid "df799d84-caa2-46b6-b796-60d6f5e07f52")
 		)
-		(pin "GP20" output
-			(at 132.08 138.43 270)
+		(pin "GP13" output
+			(at 124.46 138.43 270)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8a200756-826b-443e-94cb-52fe6829243e")
-		)
-		(pin "GP21" output
-			(at 134.62 138.43 270)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "e643ed5f-c8f4-40f8-9bca-8750e449f813")
+			(uuid "dc858b28-895e-406f-b016-b1c98331dd2c")
 		)
 		(instances
 			(project "main_board"
@@ -1687,16 +1647,6 @@
 			)
 			(uuid "08af078f-7541-41be-b6f3-a1e91fccf188")
 		)
-		(pin "GP19" output
-			(at 124.46 148.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "40565772-0b69-401f-8e59-2941ca5f2d79")
-		)
 		(pin "USB2_2_DP" output
 			(at 151.13 161.29 0)
 			(effects
@@ -1707,16 +1657,6 @@
 			)
 			(uuid "be16568c-b1e0-4b44-a793-e0e519aaedf0")
 		)
-		(pin "GP20" output
-			(at 132.08 148.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "af4e57e9-ae26-4e9f-ba35-2f04b447b236")
-		)
 		(pin "GP26" output
 			(at 129.54 148.59 90)
 			(effects
@@ -1726,16 +1666,6 @@
 				(justify right)
 			)
 			(uuid "b5e75c26-5295-4f04-bf53-3eb106994c2c")
-		)
-		(pin "GP21" output
-			(at 134.62 148.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "87ff758d-30f7-48a5-96bb-316715542ce6")
 		)
 		(pin "USB2_2_DN" output
 			(at 151.13 163.83 0)
@@ -1766,6 +1696,16 @@
 				(justify right)
 			)
 			(uuid "42d01a09-e8ee-47c2-a8f8-3b4ba2aa00fc")
+		)
+		(pin "GP13" output
+			(at 124.46 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7cb3e455-1986-4e23-9334-cd503207b087")
 		)
 		(instances
 			(project "main_board"
